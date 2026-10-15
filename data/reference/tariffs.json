@@ -1,0 +1,26 @@
+[
+  {
+    "station": "Metz Gare",
+    "peak_eur_kwh": 0.45,
+    "offpeak_eur_kwh": 0.32,
+    "peak_start": 7,
+    "peak_end": 21,
+    "session_fee": 0.5
+  },
+  {
+    "station": "Nancy Stanislas",
+    "peak_eur_kwh": 0.48,
+    "offpeak_eur_kwh": 0.35,
+    "peak_start": 7,
+    "peak_end": 21,
+    "session_fee": 0.4
+  },
+  {
+    "station": "Thionville Centre",
+    "peak_eur_kwh": 0.42,
+    "offpeak_eur_kwh": 0.3,
+    "peak_start": 8,
+    "peak_end": 20,
+    "session_fee": 0.6
+  }
+]

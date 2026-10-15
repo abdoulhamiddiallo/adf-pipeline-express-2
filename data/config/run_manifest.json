@@ -1,0 +1,6 @@
+{
+  "batch_id": "B-2026-10-14",
+  "expected_files": 3,
+  "max_reject_pct": 10,
+  "audit_tolerance_eur": 0.5
+}
